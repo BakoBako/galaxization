@@ -1,0 +1,15 @@
+{
+    "name": "bako/galaxization",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Aleksandar Markovski",
+            "email": "aleksandar@gsix.me"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpspec/phpspec": "^5.1",
+        "phpunit/phpunit": "^7.4"
+    }
+}
